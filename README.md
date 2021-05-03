@@ -4,7 +4,7 @@ Creating PGP Key Pairs Using “gpg4win” Tool
 1.  Please click on the below link for downloading “gpg4win-3.1.13.exe” tool for
     generating PGP key pairs.
 
-    -   https://files.gpg4win.org/gpg4win-3.1.13.exe
+    -   https://files.gpg4win.org/gpg4win-3.1.15.exe
 
 1.  Double click on the downloaded tool and then install it just by make sure
     the below components were selected.
